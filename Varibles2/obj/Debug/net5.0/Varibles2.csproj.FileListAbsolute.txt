@@ -1,0 +1,16 @@
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.csproj.AssemblyReference.cache
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.AssemblyInfoInputs.cache
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.AssemblyInfo.cs
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.csproj.CoreCompileInputs.cache
+C:\Users\Robz PC\repos\Varibles2\Varibles2\bin\Debug\net5.0\Varibles2.exe
+C:\Users\Robz PC\repos\Varibles2\Varibles2\bin\Debug\net5.0\Varibles2.deps.json
+C:\Users\Robz PC\repos\Varibles2\Varibles2\bin\Debug\net5.0\Varibles2.runtimeconfig.json
+C:\Users\Robz PC\repos\Varibles2\Varibles2\bin\Debug\net5.0\Varibles2.runtimeconfig.dev.json
+C:\Users\Robz PC\repos\Varibles2\Varibles2\bin\Debug\net5.0\Varibles2.dll
+C:\Users\Robz PC\repos\Varibles2\Varibles2\bin\Debug\net5.0\ref\Varibles2.dll
+C:\Users\Robz PC\repos\Varibles2\Varibles2\bin\Debug\net5.0\Varibles2.pdb
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.dll
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\ref\Varibles2.dll
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.pdb
+C:\Users\Robz PC\repos\Varibles2\Varibles2\obj\Debug\net5.0\Varibles2.genruntimeconfig.cache
